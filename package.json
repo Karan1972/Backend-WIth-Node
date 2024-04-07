@@ -1,0 +1,19 @@
+{
+  "name": "backendwithnode",
+  "version": "1.0.0",
+  "description": "learningbackend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "karan"
+  ],
+  "author": "Karan Varshney",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
